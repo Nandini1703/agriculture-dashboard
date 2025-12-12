@@ -76,3 +76,6 @@ Data-Driven Farming: Encourages smart agricultural decisions backed by analytics
 
 Scalability: Dashboard can be extended with forecasting or yield prediction model
 
+# 5.Snapshot
+http://github.com/Nandini1703/agriculture-dashboard/blob/main/snapshot%20agri%20dashboard.png
+

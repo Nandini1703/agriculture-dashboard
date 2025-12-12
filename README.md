@@ -1,5 +1,5 @@
 # agriculture-dashboard
-🌱 Crop Cast – Agricultural Sensor Dashboard (Power BI Project)
+🌱 CropCast Smart Yield Prediction from Sensor (Power BI Project)
 
 # 📌 Project Overview
 
